@@ -38,7 +38,7 @@ class NoteManager:
         os.remove(filepath)
 
 # Пример использования
-notes_manager = NoteManager("путь_к_папке_с_заметками")
+notes_manager = NoteManager("H:\Testing\Project\PromAtest1")
 note1 = Note("Заметка 1", "Содержание заметки 1")
 note2 = Note("Заметка 2", "Содержание заметки 2")
 
